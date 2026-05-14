@@ -1,0 +1,276 @@
+body {
+  background: #000000;
+}
+p {
+  color: #ffffff;
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+.index-heading {
+  
+  font-family: monospace;
+  text-align: center;
+}
+
+.mercury-link {
+ 
+  border-width: 4px;
+  border-color: #32373e;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #666e75;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+img {
+  
+  width: 1000px;
+  
+}
+
+.index-image {
+  
+  display:block;
+  margin: auto;
+}
+
+.photo {
+  
+  width: 400px;
+  border-radius: 30px;
+  float:right;
+  padding: 10px;
+  
+}
+
+.container
+
+{
+  
+  justify-content: space-around;
+}
+
+.mercury-heading {
+  
+  font-family: monospace;
+  color: dimgray;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.description {
+  
+  font-family: monospace;
+  color: white;
+  
+}
+
+.mercury-body {
+
+background: black;
+
+}
+
+.align {
+  
+  text-align: right;
+  opacity: 0.7;
+  
+}
+
+.venus-link {
+  
+  border-width: 4px;
+  border-color: #964b00;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #ffa908;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+.venus-heading {
+  
+  font-family: monospace;
+  color: orange;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.earth-link {
+  
+  border-width: 4px;
+  border-color: #0bd749;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #088eff;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.earth-heading {
+  
+  font-family: monospace;
+  color: #0034dc;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.mars-link {
+ 
+  border-width: 4px;
+  border-color: #962300;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #d24f15;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+.jupiter-link {
+  
+  border-width: 4px;
+  border-color: #b7630f;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #d6ba87;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.saturn-link {
+  
+  border-width: 4px;
+  border-color: #774e00;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #dcbd58;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+
+.uranus-link {
+  
+  border-width: 4px;
+  border-color: #099685;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #74f5ff;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+.neptune-link {
+  
+  border-width: 4px;
+  border-color: #00256a;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #74b0ff;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+.index-link {
+  
+  border-width: 4px;
+  border-color: #e66a00;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: #ffda12;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+.mars-heading {
+  
+  font-family: monospace;
+  color: #dc3600;
+  text-decoration: underline;
+  font-size: 30px;
+    
+}
+
+.jupiter-heading {
+  
+  font-family: monospace;
+  color: #c48e67;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.saturn-heading {
+ 
+  font-family: monospace;
+  color: #c4a04f;
+  text-decoration: underline;
+  font-size: 30px;
+  
+}
+
+.index-description {
+  
+  text-align: center;
+  font-size: 20px;
+}
+
+.uranus-heading {
+  
+  font-family: monospace;
+  color: #87fffa;
+  text-decoration: underline;
+  font-size: 30px;
+  
+}
+
+.neptune-heading {
+  
+  font-family: monospace;
+  color: #126feb;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.resources {
+  
+  font-size: 20px;
+  opacity: 0.7;
+}
